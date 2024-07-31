@@ -1,0 +1,42 @@
+MERN Stack
+----------------------
+MongoDB for Backend Database
+Express for Creating Backend Server
+React for Frontend client side UI creation
+Node for Runtime environment for JS
+---------------------------------------
+Steps to create React App:
+------------------
+Create a directory ex: st
+Navigate to directory
+type the comand code .
+create a new terminal -> new terminal
+Use the following comands to install libary
+		npx create react-app client 
+		npm create react-app client
+npm node package manager
+npx node package executer
+npm is use to install package
+Navigate to the app directory (client)
+To lanch the default page
+		npm start
+It'll display default location --(local host)
+..............................
+Default directory structure of the client react app as
+		Client
+			public
+			src
+				App.js
+................................
+React uses all UI as components
+Component is a visual UI like buttons, header, footer, navbar etc. 
+The default parent of all components is "App.js"
+Threre are two types of components are available 
+	Functional Component
+	Class Components
+Functional Components are created by using Functions
+Class components are created by using Class Components
+To create components in Visual Studio we need to install a plugin 
+To install use Alt+Ctrl+x
+Search for "ES7 React/Redux/GraphQL/React-Native snippets"
+The extension of components is ".js"
